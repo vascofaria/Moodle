@@ -1,0 +1,17 @@
+/BadEntryException.java/1.1/Sun Oct  7 10:12:12 2018//
+/CourseAlreadyKnownException.java/1.1/Thu Nov  8 16:24:05 2018//
+/CourseNotFoundException.java/1.1/Thu Nov  8 16:24:05 2018//
+/DisciplineDoesntExistException.java/1.1/Thu Nov 15 03:56:14 2018//
+/DupCourseException.java/1.1/Wed Dec  5 02:20:02 2018//
+/DupDisciplineException.java/1.1/Wed Dec  5 02:20:02 2018//
+/ImportFileException.java/1.1/Sun Oct  7 10:12:12 2018//
+/InvalidCourseSelectionException.java/1.1/Thu Nov 15 03:56:14 2018//
+/NoSuchPersonIdException.java/1.1/Sun Oct  7 10:12:12 2018//
+/NotValidDisciplinePersonException.java/1.1/Wed Dec  5 02:20:02 2018//
+/NotValidDisciplineStudentException.java/1.1/Thu Nov 15 06:08:30 2018//
+/NotValidDisciplineTeacherException.java/1.1/Thu Nov 15 03:56:14 2018//
+/PersonIdAlreadyKnownException.java/1.1/Thu Nov  8 16:24:05 2018//
+/UnknownCourseException.java/1.1/Wed Dec  5 02:20:02 2018//
+/UnknownDisciplineException.java/1.1/Wed Dec  5 02:20:02 2018//
+/UnknownInscriptionException.java/1.1/Wed Dec  5 02:20:02 2018//
+D
